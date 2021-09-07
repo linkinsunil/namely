@@ -1,3 +1,4 @@
 # Namely
 
-Hop in to get your next big name!
+Suggest your keyword and get nice names back. 
+Cool Right!
